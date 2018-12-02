@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/foxy/</loc>
+    <lastmod>2018-05-05T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/boo/</loc>
+    <lastmod>2018-01-24T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/globusbel/</loc>
+    <lastmod>2017-08-10T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/skorolek/</loc>
+    <lastmod>2017-05-30T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/carbon/</loc>
+    <lastmod>2017-01-31T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/</loc>
+    <lastmod>2018-05-05T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewrudyk.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

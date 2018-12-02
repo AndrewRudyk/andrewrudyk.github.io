@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Rudyk</title>
+    <link>https://andrewrudyk.github.io/</link>
+    <description>Recent content on Andrew Rudyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Andrew Rudyk 2018</copyright>
+    <lastBuildDate>Sat, 05 May 2018 17:44:36 -0700</lastBuildDate>
+    
+	<atom:link href="https://andrewrudyk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foxy - Сoloring by number dots</title>
+      <link>https://andrewrudyk.github.io/foxy/</link>
+      <pubDate>Sat, 05 May 2018 17:44:36 -0700</pubDate>
+      
+      <guid>https://andrewrudyk.github.io/foxy/</guid>
+      <description>Link to AppStore
+Main features and frameworks:  - used Firebase’s services (Database, Storage, Cloud Messaging, Remote Config)  - drawing pictures using CoreGraphics  - creating picture coloring videos using AVFoundation - for remote push notification OneSignal is integrated  - ads integration using IronSource - for database CoreData is used  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, YandexMetrica, FacebookCore)  - Crashlytics is used for bug tracking  - Fabric for Beta testing  and etc.</description>
+    </item>
+    
+    <item>
+      <title>Boo - Chat stories</title>
+      <link>https://andrewrudyk.github.io/boo/</link>
+      <pubDate>Wed, 24 Jan 2018 17:44:36 -0700</pubDate>
+      
+      <guid>https://andrewrudyk.github.io/boo/</guid>
+      <description>Link to AppStore
+Main features and frameworks:  - JSON parsing uses Codable protocol and JSONSerialization  - local notifications are implemented using UserNotifications  - for remote push notification OneSignal is integrated  - interaction with RESTful services using Alamofire  - for database CoreData is used  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, YandexMetrica)  - Crashlytics is used for bug tracking  and other frameworks: Security, AVFoundation.</description>
+    </item>
+    
+    <item>
+      <title>Globe Of Belarus (Глобус Беларуси)</title>
+      <link>https://andrewrudyk.github.io/globusbel/</link>
+      <pubDate>Thu, 10 Aug 2017 17:44:36 -0700</pubDate>
+      
+      <guid>https://andrewrudyk.github.io/globusbel/</guid>
+      <description>App was in AppStore with august 2017 to august 2018
+Main features and frameworks:  - Swift  - text and XML parsing uses JSONSerialization  - Google Maps API for showing and navigating maps - CoreData is used  other frameworks: CoreLocation, Alamofire and etc
+Screenshots:  </description>
+    </item>
+    
+    <item>
+      <title>Skorolek</title>
+      <link>https://andrewrudyk.github.io/skorolek/</link>
+      <pubDate>Tue, 30 May 2017 17:44:36 -0700</pubDate>
+      
+      <guid>https://andrewrudyk.github.io/skorolek/</guid>
+      <description>Written in Swift using basic frameworks
+Screenshots:  </description>
+    </item>
+    
+    <item>
+      <title>Carbon Free Travel</title>
+      <link>https://andrewrudyk.github.io/carbon/</link>
+      <pubDate>Tue, 31 Jan 2017 17:44:36 -0700</pubDate>
+      
+      <guid>https://andrewrudyk.github.io/carbon/</guid>
+      <description>Written in Swift using basic frameworks.
+Screenshots:  </description>
+    </item>
+    
+  </channel>
+</rss>
