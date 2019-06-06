@@ -18,7 +18,7 @@
       
       <guid>https://andrewrudyk.github.io/scanner/</guid>
       <description>Link to AppStore
-Main features and frameworks:  - распознование нативными средствами  - синхронизация файлов с сервером  - push notification  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, FacebookCore)  - Crashlytics is used for bug tracking  - Fabric for Beta testing  and etc.
+Main features and frameworks:  - recognition native sources  - files synchronization with server  - push notification  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, FacebookCore)  - Crashlytics is used for bug tracking  - Fabric for Beta testing  and etc.
 Screenshots:  </description>
     </item>
     
