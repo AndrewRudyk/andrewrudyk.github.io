@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Scanner - application for scanning text and other documents</title>
+      <title>Scanner - Application for scanning text and other documents</title>
       <link>https://andrewrudyk.github.io/scanner/</link>
       <pubDate>Fri, 01 Feb 2019 17:44:36 -0700</pubDate>
       
@@ -28,7 +28,7 @@ Screenshots:  </description>
       <pubDate>Sat, 05 May 2018 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/foxy/</guid>
-      <description>Link to AppStore
+      <description>App was in AppStore
 Main features and frameworks:  - used Firebase’s services (Database, Storage, Cloud Messaging, Remote Config)  - drawing pictures using CoreGraphics  - creating picture coloring videos using AVFoundation - for remote push notification OneSignal is integrated  - ads integration using IronSource - for database CoreData is used  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, YandexMetrica, FacebookCore)  - Crashlytics is used for bug tracking  - Fabric for Beta testing  and etc.</description>
     </item>
     
@@ -38,7 +38,7 @@ Main features and frameworks:  - used Firebase’s services (Database, Storage, 
       <pubDate>Wed, 24 Jan 2018 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/boo/</guid>
-      <description>Link to AppStore
+      <description>App was in AppStore
 Main features and frameworks:  - JSON parsing uses Codable protocol and JSONSerialization  - local notifications are implemented using UserNotifications  - for remote push notification OneSignal is integrated  - interaction with RESTful services using Alamofire  - for database CoreData is used  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, YandexMetrica)  - Crashlytics is used for bug tracking  and other frameworks: Security, AVFoundation.</description>
     </item>
     
