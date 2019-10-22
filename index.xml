@@ -6,10 +6,30 @@
     <description>Recent content on Andrew Rudyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Andrew Rudyk 2018</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 17:44:36 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 17:44:36 -0700</lastBuildDate>
     
 	<atom:link href="https://andrewrudyk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello Piano - Music lessons &amp; Games</title>
+      <link>https://andrewrudyk.github.io/piano/</link>
+      <pubDate>Sun, 01 Sep 2019 17:44:36 -0700</pubDate>
+      
+      <guid>https://andrewrudyk.github.io/piano/</guid>
+      <description>Participated in the development as part of the Gismart team Link to AppStore
+Screenshots:  </description>
+    </item>
+    
+    <item>
+      <title>Metronome - BPM &amp; Tap Tempo</title>
+      <link>https://andrewrudyk.github.io/metronom/</link>
+      <pubDate>Sat, 31 Aug 2019 17:44:36 -0700</pubDate>
+      
+      <guid>https://andrewrudyk.github.io/metronom/</guid>
+      <description>Participated in the development as part of the Gismart team Link to AppStore
+Screenshots:  </description>
+    </item>
     
     <item>
       <title>Math - Simple examples solving</title>
