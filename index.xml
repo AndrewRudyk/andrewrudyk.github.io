@@ -12,7 +12,11 @@
       <pubDate>Thu, 01 Oct 2020 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/bands/</guid>
-      <description></description>
+      <description>Main features and frameworks:  - AWSFramework for authentication
+- GetStream service as agregator of posts and user content
+- using MUX for streaming video and storage of video content
+- working with Youtube content
+Screenshots:  </description>
     </item>
     
     <item>
@@ -21,7 +25,8 @@
       <pubDate>Sun, 01 Sep 2019 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/piano/</guid>
-      <description>Participated in the development as part of the Gismart teamLink to AppStore</description>
+      <description>Participated in the development as part of the Gismart team Link to AppStore
+Screenshots:  </description>
     </item>
     
     <item>
@@ -30,7 +35,8 @@
       <pubDate>Sat, 01 Jun 2019 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/math/</guid>
-      <description>Application developing in team</description>
+      <description>Application developing in team
+Main features and frameworks:  - numbers recognition using CoreML Screenshots:  </description>
     </item>
     
     <item>
@@ -39,7 +45,8 @@
       <pubDate>Fri, 01 Feb 2019 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/scanner/</guid>
-      <description>Link to AppStore</description>
+      <description>Link to AppStore
+Main features and frameworks:  - recognition native sources  - files synchronization with server  - push notification  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, FacebookCore)  - Crashlytics is used for bug tracking  - Fabric for Beta testing  and etc. Screenshots:  </description>
     </item>
     
     <item>
@@ -48,7 +55,8 @@
       <pubDate>Sat, 05 May 2018 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/foxy/</guid>
-      <description>App was in AppStore</description>
+      <description>App was in AppStore
+Main features and frameworks:  - used Firebase’s services (Database, Storage, Cloud Messaging, Remote Config)  - drawing pictures using CoreGraphics  - creating picture coloring videos using AVFoundation - for remote push notification OneSignal is integrated  - ads integration using IronSource - for database CoreData is used  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, YandexMetrica, FacebookCore)  - Crashlytics is used for bug tracking  - Fabric for Beta testing  and etc.</description>
     </item>
     
     <item>
@@ -57,7 +65,8 @@
       <pubDate>Wed, 24 Jan 2018 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/boo/</guid>
-      <description>App was in AppStore</description>
+      <description>App was in AppStore
+Main features and frameworks:  - JSON parsing uses Codable protocol and JSONSerialization  - local notifications are implemented using UserNotifications  - for remote push notification OneSignal is integrated  - interaction with RESTful services using Alamofire  - for database CoreData is used  - auto-renewable subscriptions are implemented using StoreKit  - implementation of analytics (Amplitude, YandexMetrica)  - Crashlytics is used for bug tracking  and other frameworks: Security, AVFoundation.</description>
     </item>
     
     <item>
@@ -66,7 +75,8 @@
       <pubDate>Thu, 10 Aug 2017 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/globusbel/</guid>
-      <description>App was in AppStore with august 2017 to august 2018</description>
+      <description>App was in AppStore with august 2017 to august 2018
+Main features and frameworks:  - Swift  - text and XML parsing uses JSONSerialization  - Google Maps API for showing and navigating maps - CoreData is used  other frameworks: CoreLocation, Alamofire and etc Screenshots:  </description>
     </item>
     
     <item>
@@ -75,7 +85,8 @@
       <pubDate>Tue, 30 May 2017 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/skorolek/</guid>
-      <description>Written in Swift using basic frameworks</description>
+      <description>Written in Swift using basic frameworks
+Screenshots:  </description>
     </item>
     
     <item>
@@ -84,7 +95,8 @@
       <pubDate>Tue, 31 Jan 2017 17:44:36 -0700</pubDate>
       
       <guid>https://andrewrudyk.github.io/carbon/</guid>
-      <description>Written in Swift using basic frameworks.</description>
+      <description>Written in Swift using basic frameworks.
+Screenshots:  </description>
     </item>
     
   </channel>
